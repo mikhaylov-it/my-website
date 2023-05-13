@@ -1,8 +1,10 @@
 # Всем привет!
-![Мое фото](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Fphotos%2F%25D0%25BA%25D0%25BE%25D1%2582&psig=AOvVaw2XzWvaj2es96mYuowqF39f&ust=1684068150172000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiz1PGo8v4CFQAAAAAdAAAAABAE)
+
 Меня зовут Никки Михайлов, мне 23 года. Занимаюсь коммерческой разработкой 1 год,
 мне нравится работать над проектами разбирая их с точки зрения пользователя для
 комфортной работы приложения. Буду рад поучавствовать в проектах со свежим взглядом на мир.
+
+![У меня нет фоток, держите котика](https://img.freepik.com/free-photo/the-cat-on-white-background_155003-15381.jpg?w=1380&t=st=1683982060~exp=1683982660~hmac=9da1e4e8d81385c0d2ab56871e81a8c097230773fbdbb029e3f80c460fa61e87)
 
 ## Мои hard-skills:
 ### Языки: 
